@@ -18,7 +18,7 @@ Data visualization | Model building | Model deployment
 3. Run `eb terminate <name>` to stop and delete existing Elastic Beanstalk environment after finish testing.
 
 ## Sample results/ output
-![Demo]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/CH2001/Employee-churn-classification/blob/main/Image/Demo.gif))
+![](https://github.com/CH2001/Employee-churn-classification/blob/main/Image/Demo.gif)
 
 ## Links 
 Dataset: [Employee dataset](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset/data)
