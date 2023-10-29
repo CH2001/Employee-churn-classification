@@ -1,7 +1,7 @@
 # Employee-churn-classification
 
 ## About 
-An employee churn classification model is invaluable for organizations seeking to retain their valuable workforce and maintain operational efficiency. It helps predict which employees are at risk of leaving the company, enabling proactive intervention through targeted strategies. This project aims to create a classification model that can help in classifying employee churn. 
+An employee churn classification model is invaluable for organizations seeking to retain their valuable workforce and maintain operational efficiency. It helps predict which employees are at risk of leaving the company, enabling proactive intervention through targeted strategies. This project aims to create a classification model that can help in classifying employee churn. Out of the models tuned and compared, Decision Tree Classifier is selected as the best model with an F1-score of 0.818. 
 
 ## Summary 
 Data visualization | Model building | Model deployment 
