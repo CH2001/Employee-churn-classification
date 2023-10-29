@@ -17,6 +17,9 @@ Data visualization | Model building | Model deployment
 2. Run `eb create <name>` to create a new environment the application. 
 3. Run `eb terminate <name>` to stop and delete existing Elastic Beanstalk environment after finish testing.
 
+## Sample results/ output
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 ## Links 
 Dataset: [Employee dataset](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset/data)
 
